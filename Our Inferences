@@ -1,0 +1,21 @@
+HTML:
+HTML, or Hypertext Markup Language, is the standard language used to create and design web pages. It consists of a series of elements, each enclosed in tags, which define the structure and content of a webpage. HTML allows you to include text, images, links, forms, and multimedia content, among other things. It provides the basic structure for web pages, which can then be styled and enhanced using CSS (Cascading Style Sheets) and made interactive with JavaScript. HTML5 is the latest version of HTML and includes new features for multimedia, graphics, and interactivity, making it more powerful for modern web development.
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Title</title>
+</head>
+<body>
+    <h1>Heading</h1>
+    <p>Paragraph</p>
+    <img src="image.jpg" alt="Description">
+    <a href="https://example.com">Link</a>
+</body>
+</html>
+CSS:
+/* CSS comment */
+selector {
+    property: value;
+}
+JAVASCRIPT:
+JavaScript is a versatile programming language used for creating dynamic and interactive web content. Its syntax includes variables, functions, conditional statements, loops, events, DOM manipulation, arrays, objects, and error handling. With JavaScript, you can enhance user experience, handle user interactions, and create responsive web applications.
